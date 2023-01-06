@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "/Users/yalchin403/.virtualenvs/web3/bin/python3.8",
+    "python.formatting.provider": "black"
+}
